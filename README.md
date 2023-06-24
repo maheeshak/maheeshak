@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering student from Sri Lanka</h3>
 
 
-<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsinsight.net%2Fknow-the-relationship-between-ai-and-software-engineering%2F&psig=AOvVaw2IYWdjciga3dfBq_TbcyGC&ust=1687681300151000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiXxoC92_8CFQAAAAAdAAAAABAI>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsinsight.net%2Fknow-the-relationship-between-ai-and-software-engineering%2F&psig=AOvVaw2IYWdjciga3dfBq_TbcyGC&ust=1687681300151000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiXxoC92_8CFQAAAAAdAAAAABAI">
 
 - 🔭 I’m currently working on **My Portfolio**
 
