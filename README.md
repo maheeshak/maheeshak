@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maheesha Fernando</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Maheehsa+Fernandoo&color=ffffff;" />
 <h3 align="center">Software Engineering student from Sri Lanka</h3>
 
 <img src="https://e1.pxfuel.com/desktop-wallpaper/898/482/desktop-wallpaper-200-beautiful-software-engineer-for-you-software-engineer.jpg">
