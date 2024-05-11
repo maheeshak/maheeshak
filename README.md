@@ -3,7 +3,7 @@
 
 <img src="https://e1.pxfuel.com/desktop-wallpaper/898/482/desktop-wallpaper-200-beautiful-software-engineer-for-you-software-engineer.jpg">
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **Human Resource Management System**
 
 - 📫 How to reach me **maheeshafernando18@gmaill.com**
 
